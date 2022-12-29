@@ -99,7 +99,7 @@ calculerPrix(1,1) renvoie 0.6
 - Marc Ryan
 - Axel Maher
 
-### Remise des algorithmes
+### Remise des algorithmes
 
 Chaque personne devra remettre sur Classroom avant le 16/01/2023 le fichier .alg écrit en équipe et toutes documentations utiles.
 
